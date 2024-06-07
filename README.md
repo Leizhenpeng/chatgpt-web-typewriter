@@ -1,4 +1,8 @@
 # Chatgpt Web TypeWriter
+ 
+
+
+https://github.com/Leizhenpeng/chatgpt-web-typewriter/assets/50035229/6cb07479-2cf0-4de4-86ae-28919dff654d
 
 
 ### Running the Development Server
