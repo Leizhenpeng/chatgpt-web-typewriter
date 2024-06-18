@@ -41,7 +41,6 @@ function App() {
             ref={nodeRef}
             className="flex flex-col text-[32px] leading-[1.2] md:text-[40px]"
           >
-            {showTypewriter && (
               <Typewriter
                 key={messageIndex}
                 onInit={(typewriter) => {
@@ -62,7 +61,6 @@ function App() {
                   cursorClassName: "text-[white] ml-2 mt-1 text-[40px]",
                 }}
               />
-            )}
           </div>
         </CSSTransition>
       </div>
